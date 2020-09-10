@@ -1,0 +1,61 @@
+<html xmlns:ms="urn:schemas-microsoft-com:xslt" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+
+
+    <style type="text/css" media="all">
+
+        h1.red
+        {
+        	font-size:20px;
+        	font-weight:bold; 
+        	color:#C82F10 
+        }
+        
+        table.GridView_General 
+        {
+	        border-width: 0px;
+	        background-color: #ccd8e3; 
+	        margin-top: 5px;
+	        font-size: small;
+	        font-family:Tahoma, Sans Serif;
+	        border-collapse: collapse;
+        }
+
+        table.GridView_General th
+        {
+	        font-weight:bold; 
+	        text-align:center; 
+	        width:auto; 
+	        background-color: #99CCFF; 
+	        padding:4px 10px 4px 10px;
+	        border-color: #000000;
+	        border-width: 1px;
+	        border-style: solid;
+	        white-space: normal	
+        }
+
+        table.GridView_General td
+        {
+	        padding:4px 10px 4px 10px; 
+	        vertical-align:middle;
+	        border-color: #000000;
+	        border-width: 1px;
+	        border-style: solid;
+	        white-space: normal
+        }
+
+        table.GridViewBottomRow
+        {
+	        border-bottom-width: 1px;
+	        border-bottom-style: solid;
+	        border-bottom-color: #ccd8e3
+        }
+        
+        .excelSmallFont
+        {
+        	font-size :small;
+        }      
+    </style>
+
+            </head><body><DIV><TABLE style="BORDER-COLLAPSE: collapse" class="GridView_General" border="1" rules="all" cellSpacing="0" cellPadding="0"><TBODY><TR class="GridViewAlternative CursorDefault"><th>Дата публикации</th><th>Тип сообщения</th><th>Должник</th><th>Адрес</th><th>Кем опубликовано</th></TR><tr><td>01.01.2019 22:56:55</td><td>Сообщение о собрании кредиторов</td><td>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "СПОРТСТРОЙИНДУСТРИЯ"</td><td>121601, г. Москва, Филевский бульвар, д.39</td><td>Васильев Георгий Георгиевич</td></tr><tr><td>01.01.2019 22:56:29</td><td>Сообщение о собрании кредиторов</td><td>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ЭЛЬТОН"</td><td>МОСКВА, ТИШИНСКИЙ Б., 26, 13-14, ПОМ.XII</td><td>Бабкин Олег Петрович</td></tr><tr><td>01.01.2019 19:17:34</td><td>Сообщение о собрании кредиторов</td><td>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ПРЕСТИЖ"</td><td>МОСКВА, ЛАДОЖСКАЯ, 10</td><td>Рассохин Александр Николаевич</td></tr><tr><td>01.01.2019 16:33:17</td><td>Сообщение о результатах проведения собрания кредиторов</td><td>ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "ГИПРОСАХАР"</td><td>МОСКВА, ГАЗГОЛЬДЕРНАЯ, 12, СТР 1</td><td>Пыжова Наталья Викторовна</td></tr><tr><td>01.01.2019 16:24:59</td><td>Сообщение о судебном акте</td><td>Минковская Надежда Владимировна</td><td>г. Москва, ул. Цандера, д. 12,кв.35</td><td>Чирков Кирилл Александрович</td></tr><tr><td>01.01.2019 14:54:18</td><td>Сообщение о собрании кредиторов</td><td>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "АГРОМЕРИДИАН"</td><td>МОСКВА, СУДАКОВА, ДОМ 11, ПОМЕЩЕНИЕ II ОФИС 4</td><td>Бирюков Александр Сергеевич</td></tr><tr><td>01.01.2019 09:57:45</td><td>Сообщение о судебном акте</td><td>Лебедкин Максим Валернович</td><td>119526, г. Москва, проспект Вернадского, д. 97, кв. 272</td><td>Гонжаров Олег Павлович</td></tr></TBODY></TABLE></DIV></body></html>
