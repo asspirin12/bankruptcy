@@ -1,4 +1,4 @@
-# bankruptcy
+# Bankruptcy cases counter
 
 This code parses data about bankruptcy cases from Fedresurs website. 
 
