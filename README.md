@@ -1,5 +1,4 @@
 # bankruptcy
-Count the number of messages about bankruptcy cases
 
 This code parses data about bankruptcy cases from Fedresurs website. 
 
